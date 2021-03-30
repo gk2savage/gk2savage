@@ -3,10 +3,10 @@ Debugging’s actually all about finding the bug, about understanding why the bu
 ////
 
 ✨ ✨ ✨
-welcome to my crib, hope you have a great day ahead!!!
+welcome to my page, hope you have a great day ahead!!!
 
 ```
-$/bin/bash ./savag3x0r-home
+$/bin/bash ./dedx0r-home
 ```
 
 

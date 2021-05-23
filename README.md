@@ -38,7 +38,6 @@ $/bin/bash ./dedx0r-home
 
 ![Alt Text](https://64.media.tumblr.com/34a9785702a4f8f6887b65596cf78610/tumblr_p99gfpn6mz1x6a7yto1_500.gifv)
 
-![Night Street](https://gk2savage.github.io/trippy)
 
 
 
@@ -49,6 +48,16 @@ $/bin/bash ./dedx0r-home
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gk2savage&show_icons=true&locale=en&layout=compact" alt="gk2savage" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gk2savage&show_icons=true&locale=en" alt="gk2savage" /></p>
+
+<a href="https://github.com/gk2savage/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=gk2savage&show_icons=true&include_all_commits=true&theme=material-palenight" alt="gk2savage's github stats" />
+</a>
+&nbsp; &nbsp;
+<a href="https://github.com/gk2savage/github-readme-stats">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk2savage&layout=compact&theme=material-palenight" />
+</a>
+
+
+

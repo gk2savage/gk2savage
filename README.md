@@ -10,6 +10,12 @@
 
 
 
+
+
+
+
+
+
 ////
 Debugging’s actually all about finding the bug, about understanding why the bug was there to begin with, about knowing that its existence was no accident. It came to you to deliver a message, like an unconscious bubble floating to the surface, popping with a revelation you’ve secretly known all along. 
 ////
@@ -27,6 +33,16 @@ $/bin/bash ./dedx0r-home
 ![Alt Text](https://64.media.tumblr.com/34a9785702a4f8f6887b65596cf78610/tumblr_p99gfpn6mz1x6a7yto1_500.gifv)
 
 ![Night Street](https://gk2savage.github.io/trippy)
+
+
+
+<h3>Where to find me</h3>
+<p><a href="https://github.com/gk2savage" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/g1r1sh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@gk2savageofficial" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+</p>
+
+
+
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gk2savage&show_icons=true&locale=en&layout=compact" alt="gk2savage" /></p>

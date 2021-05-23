@@ -61,9 +61,10 @@ Currently I am listening too:
 <a href="https://github.com/gk2savage/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gk2savage&show_icons=true&include_all_commits=true&theme=material-palenight" alt="gk2savage's github stats" />
 </a>
-&nbsp; &nbsp;
+<br>
+<br>
 <a href="https://github.com/gk2savage/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <!-- Change the `github-readme-stats.gk2savage.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk2savage&layout=compact&theme=material-palenight" />
 </a>
 

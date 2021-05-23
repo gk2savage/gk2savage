@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girish Kumar</h1>
-<h3 align="center">Cyber Security Enthusiast | Programmer | Graphic Designer</h3>
+<h3 align="center">Cyber Security Enthusiast | Pentester & Programmer | Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk2savage&label=Profile%20views&color=0e75b6&style=flat" alt="gk2savage" /> </p>
 

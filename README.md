@@ -31,10 +31,9 @@ OSCP Upcoming ✨
 </p>
   
   
-<h2 align="left">🌍 Buy my NFTs:</h2>
-<h2> https://rarible.com/akashi </h2>
-<h2 align="left">Latest NFT</h2>
-<a href="https://rarible.com/token/0xc9154424B823b10579895cCBE442d41b9Abd96Ed:63453900732809122051603742990493614459607737737153081975757017505274309640194"> Culture Shock </a>
+## 🌍 Buy my NFTs:
+![Card](https://pbblogassets.s3.amazonaws.com/uploads/2020/12/24162738/How-to-Create-a-3D-Card-Effect-in-3D-Card-with-an-Image-Background.gif)
+<a href="https://rarible.com/token/0xc9154424B823b10579895cCBE442d41b9Abd96Ed:63453900732809122051603742990493614459607737737153081975757017505274309640195?tab=details"> Trading Card 00</a>
 
 &nbsp;
 

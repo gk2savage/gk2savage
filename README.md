@@ -32,7 +32,8 @@ OSCP Upcoming ✨
   
   
 ## 🌍 Buy my NFTs:
-![Card](https://pbblogassets.s3.amazonaws.com/uploads/2020/12/24162738/How-to-Create-a-3D-Card-Effect-in-3D-Card-with-an-Image-Background.gif)
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/39ac6b8e-c8c9-4d20-a781-2b36215bf34a/darz0p6-c135df35-834a-4c05-9629-4da136081691.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM5YWM2YjhlLWM4YzktNGQyMC1hNzgxLTJiMzYyMTViZjM0YVwvZGFyejBwNi1jMTM1ZGYzNS04MzRhLTRjMDUtOTYyOS00ZGExMzYwODE2OTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsEDhx9PEif5kPUEIItQTTmzJ1UUjRgk585Uc8BaiSU" style="width: 8%;height:8%;"/>
+
 <a href="https://rarible.com/token/0xc9154424B823b10579895cCBE442d41b9Abd96Ed:63453900732809122051603742990493614459607737737153081975757017505274309640195?tab=details"> Trading Card 00</a>
 
 &nbsp;

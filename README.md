@@ -43,10 +43,9 @@ Other            1 min           ░░░░░░░░░░░░░░░�
 
 <br>
 
-
-![Alt Text](https://media.tenor.com/images/c14568f54d3d7139ce4297718d00ed62/tenor.gif)
-
-
+<p align="center">
+  <img src="https://media.tenor.com/images/c14568f54d3d7139ce4297718d00ed62/tenor.gif" />
+  </p>
 
 Currently I am listening too:
 <br>
@@ -57,11 +56,13 @@ Currently I am listening too:
 
 
 <br>
-<a href="https://github.com/gk2savage/github-readme-stats">
+<a href="https://github.com/gk2savage/github-readme-stats" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gk2savage&show_icons=true&include_all_commits=true&theme=material-palenight" alt="gk2savage's github stats" />
 </a>
+
 <br>
 <br>
+
 <a href="https://github.com/gk2savage/github-readme-stats">
   <!-- Change the `github-readme-stats.gk2savage.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk2savage&layout=compact&theme=material-palenight" />

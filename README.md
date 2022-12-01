@@ -8,13 +8,11 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/cf/ef/86/cfef86ed756c2bed57b5ec8db01a5252.gif" />
   </p>
-  
-
-
-✨ ✨ ✨
-welcome to my page, hope you have a great day ahead!!!
 
 <pre>
+~ gk2savage@root 福 : cat profile.txt
+Welcome to my Github, hope you have a great day ahead!!!✨
+
 ~ gk2savage@root 福 : cat quote.txt
 The ultimate goal is to be an interesting, useful and wholesome person.
 </pre>
@@ -35,8 +33,6 @@ The ultimate goal is to be an interesting, useful and wholesome person.
     &nbsp;  &nbsp;
   <a href="https://medium.com/@gk2savageofficial" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-<br>
 
 ### 📈 Stats
 
